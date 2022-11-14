@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "881064841530",
+    "project_id": "casi-38188",
+    "storage_bucket": "casi-38188.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881064841530:android:d126ad92a784be1bc18003",
+        "android_client_info": {
+          "package_name": "com.example.baikt1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881064841530-p766accihm1i9adhlstd12g4vok8tl8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnqZzpfKZzuPr--EvIDTQhfXbaDtJ3akM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881064841530-p766accihm1i9adhlstd12g4vok8tl8i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
